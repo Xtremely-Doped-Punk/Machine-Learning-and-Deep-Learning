@@ -1,6 +1,5 @@
 ---
-
-*<h1 align='center'> Inception & Xception TLML models on Plant_Pathology_2020 - dataset </h1>*
+*<h1 align='center'> Xception ML models on Plant_Pathology_2020 - dataset </h1>*
 
 ---
 Name: Logesh.V <br>
