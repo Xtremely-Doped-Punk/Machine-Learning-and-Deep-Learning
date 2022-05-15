@@ -3,7 +3,7 @@
 *<h1 align='center'> Causal Sentence Detection </h1>*
 ---
 ---
-*<h2 align='center'> Models Used: </h2>*
+## *Models Used:*
 - Bert encoding + (Machine Learning models / Bidirectional GRU with Attention / Neural Network)
 - Bi-GRU-Att
 - RNN, LSTM, Bi-LSTM
