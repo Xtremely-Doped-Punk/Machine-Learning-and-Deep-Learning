@@ -1,8 +1,6 @@
 ---
 ---
 *<h1 align='center'> Causal Sentence Detection </h1>*
-
----
 ---
 
 ## *Models Used:*
